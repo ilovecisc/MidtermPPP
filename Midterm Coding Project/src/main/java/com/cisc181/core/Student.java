@@ -41,4 +41,8 @@ public class Student extends Person {
 	{
 		super.PrintName();
 	}
+	public static void add(Student student) {
+		// TODO Auto-generated method stub
+		
+	}
 }
